@@ -1,0 +1,3 @@
+/mnt/c/Users/codys/Downloads/CPTS 223 - FA24/SMEENK_PA1_TRY2/build/CMakeFiles/PA1.dir
+/mnt/c/Users/codys/Downloads/CPTS 223 - FA24/SMEENK_PA1_TRY2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/codys/Downloads/CPTS 223 - FA24/SMEENK_PA1_TRY2/build/CMakeFiles/rebuild_cache.dir

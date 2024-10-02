@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\codys\Downloads\CPTS 223 - FA24\SMEENK_PA1_TRY2\main.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\codys\Downloads\CPTS 223 - FA24\SMEENK_PA1_TRY2\main.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SMEENK_PA1_TRY2.vcxproj -> C:\Users\codys\Downloads\CPTS 223 - FA24\SMEENK_PA1_TRY2\x64\Debug\SMEENK_PA1_TRY2.exe
