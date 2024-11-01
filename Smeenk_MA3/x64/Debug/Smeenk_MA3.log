@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\codys\Downloads\CPTS 223 - FA24\Smeenk_MA3\generateUsers.hpp(93,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\codys\Downloads\CPTS 223 - FA24\Smeenk_MA3\generateUsers.hpp(95,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Smeenk_MA3.vcxproj -> C:\Users\codys\Downloads\CPTS 223 - FA24\Smeenk_MA3\x64\Debug\Smeenk_MA3.exe
